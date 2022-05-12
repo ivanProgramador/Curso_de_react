@@ -1,0 +1,15 @@
+React é uma biblioteca usada para a construção de interfaces avançaas usando o javascrpt como linguagem basica
+para trabalhar como react se faz necessario ter conehcimento sobre oque é o DOM Document Objetct Model, moelo 
+de elemento por objeto.
+
+A estrutura de uma pagina html é composta por tags aninhadas uma dentro da outra de forma organizada a tag 
+<html> e a tag principal e entro ddela ficam as tags de compposição do documento que definem qual vai ser a 
+parte visivel da pagina e a parte comportamental. ou seja uma hierarquia. o react tamebm tem essa visão sobre
+seus componentes, só que o objetivo ddessa biblioteca e separar totalmente um componente do outro como se uma 
+pagina tivesse ao inves de uma unica função, varios micro aplicativos dentro ela. uma barra de navegação pode
+ser um aplicativo que embora faça parte do site e controle a exibição dos ambientes de um site ela pode muito 
+bem ser alterada sem afetar os outros elementos. ou ate mesmo um artigo poe ser considderaddo um mini app ou
+componente totalmente independente dda pagina que ele compõe.
+
+por isso existe a necessidade da compreensão do funcionanmento do dom pois o React obsrva cada elemento como um 
+componente.
